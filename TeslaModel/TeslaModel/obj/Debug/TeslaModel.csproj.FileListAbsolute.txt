@@ -1,0 +1,5 @@
+C:\Users\pulkit.agarwal\Documents\Visual Studio 2013\Projects\TeslaModel\TeslaModel\bin\Debug\TeslaModel.pdb
+C:\Users\pulkit.agarwal\Documents\Visual Studio 2013\Projects\TeslaModel\TeslaModel\obj\Debug\TeslaModel.csprojResolveAssemblyReference.cache
+C:\Users\pulkit.agarwal\Documents\Visual Studio 2013\Projects\TeslaModel\TeslaModel\obj\Debug\TeslaModel.pdb
+C:\Users\pulkit.agarwal\Documents\Visual Studio 2013\Projects\TeslaModel\TeslaModel\bin\Debug\TeslaModel.exe
+C:\Users\pulkit.agarwal\Documents\Visual Studio 2013\Projects\TeslaModel\TeslaModel\obj\Debug\TeslaModel.exe
